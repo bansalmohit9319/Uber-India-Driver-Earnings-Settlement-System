@@ -6,12 +6,6 @@ The project demonstrates how a relational database can organize operational data
 
 The implementation runs in Google Colab and uses a project-provided internal API and a generated Dataset for development and validation.
 
-> **Project Type:** SQL Development, Database Management, and Data Analysis  
-> **Role:** SQL Developer  
-> **Environment:** Google Colab  
-> **Database:** SQLite
-
-
 
 ## About the Project
 
